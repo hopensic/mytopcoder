@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-public class R01_BinaryCode {
+public class R01_Lottery {
 	private static long[][] ttarray = new long[9][101];
 	private static long[][] tfarray = new long[9][101];
 
