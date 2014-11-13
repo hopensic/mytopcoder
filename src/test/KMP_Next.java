@@ -3,10 +3,10 @@ package test;
 public class KMP_Next {
 
 	/**
-	 * @param args add test commentÖĞÎÄ²âÊÔ
+	 * @param args add test commentï¿½ï¿½ï¿½Ä²ï¿½ï¿½ï¿½
 	 */
 	public static void main(String[] args) {
-		String a = new String("ÎÒÖĞ");
+		String bb = new String("ä¸­å›½");
 		String t = "abacabcabcacde";
 		String s = "abcac";
 
