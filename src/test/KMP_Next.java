@@ -6,6 +6,7 @@ public class KMP_Next {
 	 * @param args add test comment中文测试
 	 */
 	public static void main(String[] args) {
+		String a = new String("我中");
 		String t = "abacabcabcacde";
 		String s = "abcac";
 
